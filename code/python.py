@@ -30,7 +30,7 @@ __id__ = "plugin_share"
 __name__ = "Plugin Share"
 __description__ = "Share all installed plugins at once to any chat."
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "2.0.3"
+__version__ = "2.0.4"
 __min_version__ = "12.10.6"
 __icon__ = "MaxExteraPluginsStickers/12"
 
